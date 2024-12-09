@@ -22,8 +22,8 @@ const Download = () => {
               </div>
 
               <p className="body-1 mb-10 max-w-md">
-                Try it now for free on i0S, Android, PC, Web - whatever your
-                flavour, we&apos;ve ve got you covered.
+                Try it now for free on iOS, Android, PC, Web - whatever your
+                flavour, we&apos;ve got you covered.
               </p>
 
               <ul className="flex flex-wrap items-center gap-6">
